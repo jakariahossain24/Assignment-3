@@ -4,6 +4,7 @@ var area = 800;
 console.log(area/2);
 
 
+
 /** Problem -02 ( Cycle or Laptop ) */
 var money = 10000;
 //write your code here
@@ -17,6 +18,7 @@ else
 {
     console.log('Chocolate');
 }
+
 
 
 /** Problem -03 ( Medicine Planner ) */
@@ -46,10 +48,14 @@ else{
 }
 
 
+
+
 /** Problem 05 - ( PH Email Generator )  */
 var student= { name: "jhankar" , roll: 1014 ,department: "cse" };
 //write your code here
 console.log(student.name + student.roll + '.' + student.department + '@ph.ac.bd');
+
+
 
 
 /** Problem 06 :  (Current Salary )  */
